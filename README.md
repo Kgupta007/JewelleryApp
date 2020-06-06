@@ -1,2 +1,0 @@
-# JewelleryApp
-New VR Project
